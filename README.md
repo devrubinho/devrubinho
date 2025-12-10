@@ -80,12 +80,6 @@ Olá! Sou **Rubens Junior**, um desenvolvedor Full Stack apaixonado por criar so
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devrubinho&theme=shades_of_purple" alt="GitHub Stats"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devrubinho&theme=shades_of_purple&utcOffset=8" alt="Productive Time"/>
-</div>
-
 ---
 
 ## 🤝 Conecte-se Comigo
