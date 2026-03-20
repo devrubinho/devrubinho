@@ -53,6 +53,7 @@ Olá! Sou **Rubens Junior**, um desenvolvedor Full Stack apaixonado por criar so
 ### 🤖 Integração de IA
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![AI APIs](https://img.shields.io/badge/AI_APIs-FF6F00?style=for-the-badge&logo=brave&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
